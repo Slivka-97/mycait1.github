@@ -1,0 +1,78 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+html,body{
+height: 100%;
+background-image: url(https://img3.goodfon.ru/original/1920x1200/7/a9/yaponiya-honsyu-gora-fudzi.jpg);
+background-attachment: fixed;
+background-repeat: space;
+background-repeat: no-repeat;
+}
+.wrapper{
+
+height: 100%;
+display: flex;
+justify-content: center;
+}
+p{
+  padding-top: 20px;
+  padding-right: 40px;
+}
+.wrapperContent{
+width: 995px;
+height: 100%;
+
+}
+.main1{
+background-color: rgba(0, 0, 0, 0.5);
+height: 400px;
+}
+.main2{
+
+min-height: 100%;
+
+}
+.main3{
+height: 100px;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.centerBody{
+background-color: rgba(0, 0, 0, 0.5);
+width: 30%;
+min-height: 100vh;
+float: left;
+
+}
+.rightBody{
+background-color: rgba(0, 0, 0, 0.5);
+width: 70%;
+min-height: 100vh;
+float: left;
+color: white;
+
+}
+a{
+  position: fixed;
+  text-decoration: none;
+color :black;
+padding-left: 20px;
+padding-bottom: 10px
+}
+.les{
+  padding-top:20px;
+  color: white;
+}
+h1{
+  text-align: center;
+  color:white;
+}
+.head1{
+height: 50%;
+}
+.head2{
+  text-align: center;
+}
+h2{
+  opacity: 0.0;
+}
